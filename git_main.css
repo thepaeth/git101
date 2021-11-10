@@ -17,3 +17,42 @@ body {
 	padding-top: 70px;
 	height: 1024px;
 }
+
+.aqi {
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	background-color: #003366;
+	text-align: center;
+	color: #fff;
+	line-height: 95px;
+	font-size: 40px;
+	font-family: monospace;
+	-webkit-border-top-left-radius: 15px;
+	-webkit-border-bottom-left-radius: 15px;
+	-moz-border-radius-topleft: 15px;
+	-moz-border-radius-bottomleft: 15px;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+}
+.num {
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	background-color: #333333;
+	text-align: center;
+	color: #fff;
+	line-height: 95px;
+	font-size: 40px;
+	font-family: monospace;
+	-webkit-border-top-right-radius: 15px;
+	-webkit-border-bottom-right-radius: 15px;
+	-moz-border-radius-topright: 15px;
+	-moz-border-radius-bottomright: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+.dashboard {
+	text-align: center;
+	padding: 20px;
+}
