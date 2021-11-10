@@ -17,3 +17,7 @@ body {
 	padding-top: 70px;
 	height: 1024px;
 }
+
+.head-bar a {
+	color: #ffffff;
+}
