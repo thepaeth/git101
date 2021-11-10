@@ -3,3 +3,6 @@ read me first:
 2. open your pc
 3. open your facebook.
 4. open your mind
+5. close yout eyes
+6. take a deep breathe
+7. type Hello World
