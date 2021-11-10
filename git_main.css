@@ -71,3 +71,10 @@ body {
 	text-align: center;
 	padding: 20px;
 }
+
+.data-list {
+	padding: 10px;
+	color:  #333333;
+	font-size: 18px;
+	font-family: monospace;
+}
